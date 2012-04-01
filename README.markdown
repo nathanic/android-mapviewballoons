@@ -1,3 +1,8 @@
+About This Fork
+---------------
+This is a simple fork of mapviewballoons so that I could add maven support for my own purposes.  There is a quick-and-dirty pom.xml in the android-mapviewballoons directory.  I haven't bothered making a pom.xml for the samples.
+
+
 Android MapView Balloons
 ========================
 
